@@ -67,7 +67,7 @@
             },
             getLabel: {
                 type: Function,
-                default: item => item
+                default: item => item.label
             },
             itemComponent: { 
                 type: String, 
