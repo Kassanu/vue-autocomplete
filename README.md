@@ -1,5 +1,7 @@
 # vue-autocomplete
 
+# Still in developement, not ready for use in projects.
+
 ## Project setup
 ```
 npm install
